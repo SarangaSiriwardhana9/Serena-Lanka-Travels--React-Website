@@ -15,20 +15,20 @@ const Services = () => {
     const services = [
         {
             id: 1,
-            title: "Membership Organisations",
-            description: "Our membership management software provides full automation of membership renewals and payments",
+            title: "Travel Tips & Tricks",
+            description:  "Discover insider tips and tricks to make the most of your travels. From packing hacks to budget-friendly ideas, our blog offers valuable advice for every traveler.",
             image: memberImage
         },
         {
             id: 2,
-            title: "National Associations",
-            description: "Our membership management software provides full automation of membership renewals and payments",
+            title: "Destination Guides",
+            description: "Explore the best destinations in Sri Lanka and beyond with our detailed guides. Learn about the must-visit attractions, hidden gems, and local culture of each place.",
             image: nationalImage
         },
         {
             id: 3,
-            title: "Clubs And Groups",
-            description: "Our membership management software provides full automation of membership renewals and payments",
+            title: "Company Updates & News",
+            description: "Stay up-to-date with the latest news and updates from Serena Lanka Travels. From new tour packages to special promotions, find out what's happening in the world of travel.",
             image: clubsImage
         }
     ];
@@ -37,18 +37,17 @@ const Services = () => {
     return (
         <div className="md:px-14 px-4 py-16 max-w-screen-2xl mx-auto" id="service">
             <div className="text-center my-8">
-                <h2 className="text-4xl text-neutralDgrey font-semibold mb-2">Our Clients</h2>
-                <p className="text-neutralGrey ">We have been working with some Fortune 500+ clients</p>
+                <h2 className="text-4xl text-[#1c3253] font-semibold mb-2">Our Clients</h2>
+                <p className="text-[#274061]  ">We have been working with some Fortune 500+ clients</p>
                 {/* company logo */}
-                <div className="my-12 flex flex-wrap justify-between items-center gap-8">
+                <div className="my-12 mx-20 flex flex-wrap justify-between items-center gap-8">
 
                     <img src={b1} alt="" />
                     <img src={b2} alt="" />
                     <img src={b3} alt="" />
                     <img src={b4} alt="" />
                     <img src={b5} alt="" />
-                    <img src={b6} alt="" />
-                    <img src={b7} alt="" />
+                   
 
 
 
@@ -56,19 +55,19 @@ const Services = () => {
             </div>
             {/* services card */}
             <div className="mt-20 md:w-1/2 mx-auto text-center">
-                <h2 className="text-4xl text-neutralDgrey font-semibold mb-2"> Manage your entire community in a single system</h2>
-                <p className="text-neutralGrey "> Who is Nextcent suitable for? </p>
+                <h2 className="text-4xl text-[#1c3253]  font-semibold mb-2"> Wanderlust Chronicles</h2>
+                <p className="text-[#274061] "> Explore, Discover, and Share the Joy of Travel with Serena Lanka Travels </p>
             </div>
             {/* cards */}
             <div className="mt-14 grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 md:w-11/12 mx-auto gap-12">
                 {services.map(service => (
-                    <div key={service.id} className="px-4 py-8 text-center  md:w-[300px] mx-auto md:h-80 rounded-md shadow cursor-pointer  hover:-translate-y-5 hover:border-b-4 hover:border-indigo-700  transition-all duration-300 flex items-center justify-center h-full">
+                    <div key={service.id} className="px-4 py-8 text-center  md:w-[300px] mx-auto md:h-80 rounded-md shadow cursor-pointer  hover:-translate-y-5 hover:border-b-4 hover:border-[#395a8b]  transition-all duration-300 flex items-center justify-center h-full">
                         <div >
                             <div className="flex items-center justify-center">
                                 <img src={service.image} className="-ml-5" alt="" />
                             </div>
-                            <h4 className="text-2xl font-bold text-neutralDgrey my-2">{service.title}</h4>
-                            <p className="text-sm text-neutralDgrey">{service.description}</p>
+                            <h4 className="text-2xl font-bold text-[#1c3253] my-2">{service.title}</h4>
+                            <p className="text-sm text-[#274061]">{service.description}</p>
                         </div>
                     </div>
                 ))}
