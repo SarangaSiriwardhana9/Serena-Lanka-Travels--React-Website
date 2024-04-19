@@ -1,13 +1,7 @@
-import productImg from "../assets/icons/product.png";
-import b1 from "../assets/icons/company1.png";
-import b2 from "../assets/icons/company2.png";
-import b3 from "../assets/icons/company1.png";
-import b4 from "../assets/icons/company4.png";
-import b5 from "../assets/icons/company5.png";
-import b6 from "../assets/icons/company6.png";
-import b7 from "../assets/icons/company7.png";
+
 
 import services from '/3.png'
+import company from '/logo2.png'
 
 const Products = () => {
 
@@ -33,13 +27,10 @@ const Products = () => {
 
             {/* company state */}
 
-            <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16">
+            <div className="px-4 lg:px-28 max-w-screen-2xl mx-auto  py-16">
                 <div className="flex flex-col md:flex-row justify-between items-center gap-8">
-                    <div className="md:w-1/3">
-                        <img src={services} alt=""/>
-                    </div>
                     <div className="md:w-2/3 mx-auto">
-                        <div>
+                    <div>
                         <h2 className="text-4xl text-[#39629e] font-semibold mb-4 md:w-4/5">
                         Company Statement                      </h2>
                             <p className="md:w-4/5 text-md text-[#274061] mb-8 leading-7">
@@ -49,6 +40,10 @@ const Products = () => {
                             <p className="text-base text-[#274061] mb-8">where every trip is an opportunity to make lasting memories and a positive impact .</p>
                      
                         </div>
+                    </div>
+                    <div className="md:w-1/3 mx-auto">
+                        <img src={company} alt="" className="w-[400px] mx-auto" />
+                        
                     </div>
 
                 </div>
