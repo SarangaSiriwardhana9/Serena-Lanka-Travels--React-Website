@@ -1,8 +1,8 @@
 import { Carousel } from 'flowbite-react';
 import banner from "../assets/banner.png";
-import banner1 from '/5.png'
-import banner2 from '/3.png'
-import banner3 from '/8.png'
+import banner1 from '/11.png'
+import banner2 from '/10.png'
+import banner3 from '/13.png'
 
 const Home = () => {
     return (
@@ -26,8 +26,8 @@ const Home = () => {
                         </div>
                         {/* hero text */}
                         <div className='md:w-1/2'>
-                            <h1 className='text-5xl font-semibold mb-4 text-[#1c3253] md:w-3/4 leading-snug'>Experience <span className='text-[#4880c9]'>Luxury</span> Like Never Before</h1>
-                            <p className='text-[#274061] text-base mb-8'>Indulge in luxury and relaxation with Serena Lanka Travels. From exclusive beach resorts to stunning mountain retreats, we offer a range of luxurious accommodations and personalized services to make your vacation truly unforgettable.</p>
+                            <h1 className='text-5xl font-semibold mb-4 text-[#1c3253] md:w-3/4 leading-snug'>Discover the  <span className='text-[#4880c9]'>Rich Heritage</span> of Sri Lanka</h1>
+                            <p className='text-[#274061] text-base mb-8'>Immerse yourself in the vibrant culture and traditions of Sri Lanka with Serena Lanka Travels. Experience the warmth of Sri Lankan hospitality, explore ancient temples, and witness traditional ceremonies that have been passed down for generations. Let us take you on a journey to discover the heart and soul of this beautiful island nation.</p>
                         </div>
                     </div>
                     <div className="my-28 md:my-8 py-12 flex  flex-col md:flex-row-reverse items-center justify-between gap-12 ">

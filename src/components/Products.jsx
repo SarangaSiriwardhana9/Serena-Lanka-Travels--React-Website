@@ -18,10 +18,10 @@ const Products = () => {
                         <img src={productImg} alt="" />
                     </div>
                     <div className="md:w-3/5 mx-auto">
-                        <h2 className="text-4xl text-neutralDgrey font-semibold mb-4 md:w-4/5">
-                            How to design your site footer like we did                        </h2>
-                        <p className="md:w-3/4 text-sm text-neutralDgrey mb-8">
-                            Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec tincidunt molestie, massa nunc varius arcu, at scelerisque elit erat a magna. Donec quis erat at libero ultrices mollis. In hac habitasse platea dictumst. Vivamus vehicula leo dui, at porta nisi facilisis finibus. In euismod augue vitae nisi ultricies, non aliquet urna tincidunt. Integer in nisi eget nulla commodo faucibus efficitur quis massa. Praesent felis est, finibus et nisi ac, hendrerit venenatis libero. Donec consectetur faucibus ipsum id gravida.
+                        <h2 className="text-4xl text-[#39629e] font-semibold mb-4 md:w-4/5">
+                        Our Services                       </h2>
+                        <p className="md:w-3/4 text-sm text-[#274061] mb-8">
+                        At Serena Lanka Travels, we offer a comprehensive range of services to ensure your travel experience is seamless and memorable. From comfortable transportation to luxurious accommodations and knowledgeable tour guides, we take care of every detail so you can relax and enjoy your journey. Whether you're exploring the vibrant cities, relaxing on pristine beaches, or trekking through lush forests, our services are designed to enhance your travel experience and create unforgettable memories in Sri Lanka.
                         </p>
                         <button className="btn-primary">Show more</button>
 
