@@ -5,17 +5,17 @@ import Home from './components/Home';
 import MyFooter from './components/MyFooter';
 import Navbar from './components/Navbar'
 import NewsLetter from './components/NewsLetter';
-import Products from './components/Products';
-import Services from './components/Services';
+import OurServices from './components/OurServices';
+import OurClients from './components/OurClients';
 function App() {
 
   return (
     <>
     <Navbar />
     <Home/>
-    <Services/>
+    <OurClients/>
     <About/>
-    <Products/>
+    <OurServices/>
     <Blog/>
     <NewsLetter/>
     <MyFooter/>

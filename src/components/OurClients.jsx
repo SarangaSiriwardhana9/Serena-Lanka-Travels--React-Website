@@ -8,7 +8,7 @@ import { TbBulbFilled } from "react-icons/tb";
 import { FaHotel } from "react-icons/fa";
 import { SiGooglenews } from "react-icons/si";
 
-const Services = () => {
+const OurClients = () => {
     const services = [
         {
             id: 1,
@@ -66,5 +66,5 @@ const Services = () => {
         </div>);
 }
 
-export default Services;
+export default OurClients;
 
