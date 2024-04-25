@@ -1,5 +1,7 @@
 # Serena Lanka Travels
 
+![logo1](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/eb416252-1fb9-40f8-9a32-68d86e51d418)
+
 Welcome to Serena Lanka Travels, your gateway to unforgettable adventures in Sri Lanka!
 
 
@@ -56,18 +58,4 @@ Serena Lanka Travels is a React-based website for a travel agency offering tours
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-
-![logo1](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/eb416252-1fb9-40f8-9a32-68d86e51d418)
-
-![2](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/fbb6ffeb-6316-4f5e-9229-e56937f3a9c9)
-![3](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/202ccd16-6609-4d26-83d6-623aadeb39de)
-![4](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/613bf7c5-810f-4799-94aa-2dda3306a5a4)
-![5](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/81b96de6-42ef-4ac9-bc5e-9e2390e1a9de)
-
-
-
-
-
-
 
