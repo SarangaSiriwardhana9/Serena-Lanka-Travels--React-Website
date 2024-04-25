@@ -2,22 +2,10 @@
 
 Welcome to Serena Lanka Travels, your gateway to unforgettable adventures in Sri Lanka!
 
-# Images
-
-| Logo | Image 2 |
-|------|---------|
 | ![logo1](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/eb416252-1fb9-40f8-9a32-68d86e51d418) | ![2](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/fbb6ffeb-6316-4f5e-9229-e56937f3a9c9) |
-| Description of Logo | Description of Image 2 |
-
-| Image 3 | Image 4 |
-|---------|---------|
+|-----------------------------------|-----------------------------------|
 | ![3](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/202ccd16-6609-4d26-83d6-623aadeb39de) | ![4](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/613bf7c5-810f-4799-94aa-2dda3306a5a4) |
-| Description of Image 3 | Description of Image 4 |
-
-| Image 5 |
-|---------|
-| ![5](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/81b96de6-42ef-4ac9-bc5e-9e2390e1a9de) |
-| Description of Image 5 |
+| ![5](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/81b96de6-42ef-4ac9-bc5e-9e2390e1a9de) |                                   |
 
 
 ## Table of Contents
