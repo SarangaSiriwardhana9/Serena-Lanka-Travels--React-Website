@@ -29,11 +29,11 @@ const Navbar = () => {
     // Nav items array
     const navItems = [
         { link: "Home", path: "home" },
-        { link: "Service", path: "service" },
         { link: "About", path: "about" },
-        { link: "Product", path: "product" },
+        { link: "Tours", path: "tours" },
+        { link: "Clients", path: "clients" },
         { link: "Testimonial", path: "testimonial" },
-        { link: "FAQ", path: "faq" },
+        { link: "Contact", path: "contact" },
     ];
 
     return (
@@ -47,7 +47,7 @@ const Navbar = () => {
                     {/* Nav items for large screens */}
                     <ul className="md:flex space-x-12 hidden">
                         {navItems.map(({ link, path }) =>
-                            <ScrollLink key={path} to={path} spy={true} smooth={true} offset={-100} className="block text-base text-gray-900 hover:text-brandPrimary">{link}</ScrollLink>
+                            <ScrollLink key={path} to={path} spy={true} smooth={true} offset={-100} className="block text-base text-gray-900 hover:text-blue-700">{link}</ScrollLink>
                         )}
                     </ul>
 

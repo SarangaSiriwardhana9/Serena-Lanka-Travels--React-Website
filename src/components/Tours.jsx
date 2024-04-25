@@ -69,7 +69,7 @@ const Tours = () => {
     };
 
     return (
-        <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-12" id="faq">
+        <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-12 bg-neutralSilver" id="tours">
             <div className="text-center md:w-1/2 mx-auto">
                 <h2 className="text-4xl  font-semibold mb-4 text-[#39629e]">Tours & Packages: </h2>
                 <p className="text-sm text-[#274061]  mb-8 md:w-3/4 mx-auto">Explore Sri Lanka with Serena Lanka Travels. Choose from a range of curated tours for an unforgettable experience...​</p>

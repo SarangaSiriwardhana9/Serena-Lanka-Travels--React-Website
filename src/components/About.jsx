@@ -8,9 +8,9 @@ import company from '/logo2.png'
 import aboutImg from "/12.png"
 const About = () => {
     return (
-        <div>
+        <div className="bg-neutralSilver">
             {/* about text */}
-            <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-8" id="about">
+            <div className="px-4 lg:px-14 max-w-screen-2xl mx-auto my-8 bg-neutralSilver" id="about">
                 <div className=" md:w-11/12 mx-auto flex flex-col md:flex-row justify-between items-center gap-12">
                     <div>
                         <img src={aboutImg} alt="" className="w-[600px]" />
@@ -29,7 +29,7 @@ const About = () => {
             </div>
 
             {/* company states */}
-            <div className="px-4 lg:px-28 max-w-screen-2xl md:-mr-20 mx-auto  py-16">
+            <div className="px-4 lg:px-28 max-w-screen-2xl md:-mr-20 mx-auto bg-neutralSilver  py-16">
                 <div className="flex flex-col md:flex-row justify-between items-center gap-8">
                     {/* states */}
                     <div className="md:w-1/2  mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-12 ">
@@ -90,7 +90,7 @@ const About = () => {
 
             {/* company state */}
 
-            <div className="px-4 lg:px-36 max-w-screen-2xl mx-auto  py-16">
+            <div className="px-4 lg:px-36 max-w-screen-2xl mx-auto bg-neutralSilver py-16">
                 <div className="flex flex-col md:flex-row justify-between items-center gap-8">
                     <div className="md:w-2/3 mx-auto">
                         <div>

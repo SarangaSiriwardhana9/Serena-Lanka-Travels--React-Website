@@ -31,7 +31,8 @@ const OurClients = () => {
     ];
 
     return (
-        <div className="md:px-14 px-4 py-16 max-w-screen-2xl mx-auto" id="service">
+        <div id="clients">
+        <div className="md:px-14 px-4 py-16 max-w-screen-2xl mx-auto bg-neutralSilver" >
             <div className="text-center my-8">
                 <h2 className="text-4xl text-[#39629e] font-semibold mb-2">Our Clients</h2>
                 <p className="text-[#274061]  ">We have been working with some Fortune 500+ clients</p>
@@ -63,7 +64,10 @@ const OurClients = () => {
                     </div>
                 ))}
             </div>
-        </div>);
+        </div>
+        </div>
+        
+        );
 }
 
 export default OurClients;

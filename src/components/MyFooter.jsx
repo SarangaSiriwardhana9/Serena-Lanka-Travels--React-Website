@@ -1,52 +1,52 @@
-import logo from "../assets/logo.png";
+import logo from "/logo1.png";
 
 const MyFooter = () => {
     return (
 
 
-        <footer class=" bg-gray-800">
+        <footer class=" bg-[#d0ddf1]">
             <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
                 <div class="md:flex md:justify-between">
-                    <div class="mb-8 text-gray-400 md:mb-0 space-y-4">
+                    <div class="mb-8 text-blue-00 md:mb-0 space-y-4">
                         <a href="https://flowbite.com/" class="flex items-center text-2xl font-semibold space-x-3">
-                            <img src={logo} class="w-10 inline-block items-center" alt="FlowBite Logo" />
-                            <span class="self-center text-2xl font-semibold whitespace-nowrap text-[#dadcdd]">GREENWAY</span>
+                            <img src={logo} class="w-64 h-24 inline-block items-center" alt="FlowBite Logo" />
+                        
                         </a>
-                        <div>
+                        <div className="text-[#28497a] ml-2">
                             <p className="mb-1">
-                                Copyright © 2020 Nexcent ltd.
+                                Copyright © 2024 Serena Lanka
                             </p>
                             <p>
-                                All rights reserved
+                                All rights reserved by Sara
                             </p>
                         </div>
                     </div>
                     <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                         <div>
-                            <h2 class="mb-6 text-sm font-semibold text-white">Resources</h2>
-                            <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                            <h2 class="mb-6 text-sm font-semibold text-[#28497a]">Resources</h2>
+                            <ul class="text-[#5e779c] font-medium">
                                 <li class="mb-4">
-                                    <a href="https://flowbite.com/" class="hover:underline">Flowbite</a>
+                                    <a href="" class="hover:underline">Serena Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
+                                    <a href="" class="hover:underline">Clients</a>
                                 </li>
                             </ul>
                         </div>
                         <div>
-                            <h2 class="mb-6 text-sm font-semibold uppercase text-white">Follow us</h2>
-                            <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                            <h2 class="mb-6 text-sm font-semibold uppercase text-[#28497a]">Follow us</h2>
+                            <ul class="text-[#5e779c]  font-medium">
                                 <li class="mb-4">
-                                    <a href="https://github.com/themesberg/flowbite" class="hover:underline ">Github</a>
+                                    <a href="" class="hover:underline ">Github</a>
                                 </li>
                                 <li>
-                                    <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Discord</a>
+                                    <a href="" class="hover:underline">Discord</a>
                                 </li>
                             </ul>
                         </div>
                         <div>
-                            <h2 class="mb-6 text-sm font-semibold  uppercase text-white">Legal</h2>
-                            <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                            <h2 class="mb-6 text-sm font-semibold  uppercase text-[#28497a]">Legal</h2>
+                            <ul class="text-[#5e779c]  font-medium">
                                 <li class="mb-4">
                                     <a href="#" class="hover:underline">Privacy Policy</a>
                                 </li>
@@ -59,7 +59,7 @@ const MyFooter = () => {
                 </div>
                 <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
                 <div class="sm:flex sm:items-center sm:justify-between">
-                    <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" class="hover:underline">Flowbite™</a>. All Rights Reserved.
+                    <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="" class="hover:underline">Serena Lanka</a>. All Rights Reserved.
                     </span>
                     <div class="flex mt-4 sm:justify-center sm:mt-0">
                         <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
