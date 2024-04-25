@@ -1,8 +1,10 @@
 # Serena Lanka Travels
 
+Welcome to Serena Lanka Travels, your gateway to unforgettable adventures in Sri Lanka!
+
 ![logo1](https://github.com/SarangaSiriwardhana9/Serena-Lanka-Travels--React-Website/assets/99233703/eb416252-1fb9-40f8-9a32-68d86e51d418)
 
-Welcome to Serena Lanka Travels, your gateway to unforgettable adventures in Sri Lanka!
+
 
 
 | |  |
