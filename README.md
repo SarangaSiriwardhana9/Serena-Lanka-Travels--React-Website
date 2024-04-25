@@ -52,7 +52,7 @@ Serena Lanka Travels is a React-based website for a travel agency offering tours
 
 ## Usage
 
-- Visit the live site at [https://www.serenalankatravels.com](https://www.serenalankatravels.com).
+- Visit the live site at [https://www.serenalankatravels.com](https://serena-lanka-travels.netlify.app).
 - Explore the various sections of the website to learn about the services offered and book your next adventure in Sri Lanka!
 
 ## Contributing
