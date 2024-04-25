@@ -6,7 +6,7 @@ import banner3 from '/13.png'
 
 const Home = () => {
     return (
-        <div className="bg-neutralSilver" id='home'>
+        <div className="" id='home'>
             <div className="px-4 lg:px-20 max-w-screen-2xl mx-auto min-h-screen h-screen">
 
                 <Carousel className='w-full mx-auto' >
