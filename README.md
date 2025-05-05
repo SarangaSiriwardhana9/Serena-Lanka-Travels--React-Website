@@ -44,8 +44,8 @@ Serena Lanka Travels is a React-based website for a travel agency offering tours
 - React
 - Tailwind CSS
 - React Router
-- React Toastify (for notifications)
-- MongoDB (for storing testimonials and contact form submissions)
+ 
+ 
 
 ## Setup
 
